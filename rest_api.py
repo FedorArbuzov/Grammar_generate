@@ -1,7 +1,30 @@
 from bottle import route, run
+import wikipedia
+wikipedia.set_lang("en")
+@route('/quest/<quest_id:int>')
+def quest(quest_id):
+    if quest_id == 1:
+        arr = {
+            "name" : "Мекка Москвы",
+            "desc" : "Докажите всем, что вы были в Москве. Посетите Кремль и Москва-сити.",
+            "events":
+                [
+                    {
+                        "lat" : 55.7522,
+                        "long": 37.6156 ,
+                        "desc":  "Кремль",
+                        "dist": 30,
+                        "question" : None
+                    },
+                    {
+                        "lat": 55.7480861,
+                        "long": 37.5379497,
+                        "desc":  "Москва-сити",
+                        "dist": 30,
+                        "question": None
+                    }
+                ]
+        }
+    return arr
 
-@route('/hello')
-def hello():
-    return "Hello World!"
-
-run(host='localhost', port=8080, debug=True)
+run(host='31.135.85.7', port=9583, debug=True)
