@@ -7,6 +7,7 @@ def quest(quest_id):
         arr = {
             "name" : "Мекка Москвы",
             "desc" : "Докажите всем, что вы были в Москве. Посетите Кремль и Москва-сити.",
+            "long_desc": "jnfgjbgtjn;juegrijoegrjioegrijogrejnogrejnoregjngrejngre",
             "events":
                 [
                     {
