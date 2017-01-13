@@ -34,7 +34,7 @@ def region(i):
     sent[i] += 'в|O' + ' '
     k = random.randint(1, len(places)-1)
     sent[i] += ret_pad(places[k]) + '|L'
-
+ 
 def ret_pad(s):
 
     pad = {1: 'nomn', 2: 'gent', 3: 'datv', 4: 'accs', 5: 'ablt', 6: 'loct'}
