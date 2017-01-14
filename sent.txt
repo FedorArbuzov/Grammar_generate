@@ -1,203 +1,203 @@
-дефицит|D по|O жкх|S-housing_utilities 1932|Y год|O 
-поступления|R через|O жкх|S-housing_utilities 
-1925|Y год|O в|O забайкальскому|L
-на|O безопасностью|S-national_security 1895|Y год|O 
-из|O окружающая|S-environment в|O югре|L
-из|O оборону|S-national_defence в|O ставрополью|L
-в|O ингушетия|L
-поступления|R при|O образования|S-education 
-в|O хакасии|L
-через|O безопасностью|S-national_security 
-от|O оборона|S-national_defence в|O белгородская|L
-поступления|R по|O социальной|S-social_policy 2010|Y год|O 
-перед|O окружающей|S-environment 1973|Y год|O в|O бурятия|L
-дефицит|D 1881|Y год|O 
-дефицит|D о|O социальной|S-social_policy 2044|Y год|O 
-1911|Y год|O 
+траты|S на|O обороне|B-S-national_defence 1903|B-T.time год|I-T.time в|O челябинскую|B-L.location
+поступления|R с|O здравоохранении|B-S-health 1941|B-T.time год|I-T.time в|O сахой|B-L.location
 
-под|O экономика|S-national_economy 
-траты|S 1967|Y год|O в|O краснодарским|L
-траты|S о|O социальной|S-social_policy 
-траты|S 1979|Y год|O 
-перед|O культуры|S-culture в|O югра|L
-на|O спорт|S-pe_and_sports 
-1904|Y год|O 
-дефицит|D от|O образование|S-education в|O московской|L
-поступления|R 2032|Y год|O в|O марий|L
-траты|S в|O тамбовская|L
-в|O уральским|L
-траты|S о|O социальной|S-social_policy 1958|Y год|O 
-к|O окружающая|S-environment 1858|Y год|O в|O амурской|L
+траты|S 2018|B-T.time год|I-T.time 
+1888|B-T.time год|I-T.time 
+по|O безопасности|B-S-national_security 
+поступления|R 1856|B-T.time год|I-T.time 
+о|O культуру|B-S-culture 1973|B-T.time год|I-T.time 
+дефицит|D у|O экономикой|B-S-national_economy 1865|B-T.time год|I-T.time 
+поступления|R по|O социальную|B-S-social_policy 1886|B-T.time год|I-T.time 
+в|O сахалинской|B-L.location
+при|O безопасностью|B-S-national_security 1867|B-T.time год|I-T.time в|O ненецкого|B-L.location
+по|O окружающей|B-S-environment 1862|B-T.time год|I-T.time 
+от|O окружающая|B-S-environment 2015|B-T.time год|I-T.time 
+дефицит|D в|O тюменской|B-L.location
+поступления|R за|O экономике|B-S-national_economy 1895|B-T.time год|I-T.time 
 
-траты|S из|O оборона|S-national_defence в|O саху|L
-1938|Y год|O в|O красноярский|L
-траты|S в|O татарстаном|L
-дефицит|D 1975|Y год|O в|O южному|L
-от|O экономике|S-national_economy 
-траты|S про|O спорте|S-pe_and_sports в|O россией|L
-от|O окружающей|S-environment 1816|Y год|O 
-о|O спорт|S-pe_and_sports 1921|Y год|O 
-дефицит|D в|O сибирского|L
-траты|S в|O северо-западного|L
-дефицит|D через|O здравоохранением|S-health 2027|Y год|O в|O кемеровской|L
-поступления|R про|O образования|S-education в|O омской|L
-до|O жкх|S-housing_utilities 
-траты|S про|O жкх|S-housing_utilities 1815|Y год|O 
-2008|Y год|O в|O красноярским|L
-у|O здравоохранение|S-health в|O липецкой|L
-дефицит|D 1989|Y год|O в|O новгородскую|L
+траты|S про|O безопасность|B-S-national_security в|O алтайскому|B-L.location
+об|O образования|B-S-education в|O воронежской|B-L.location
+из|O спорте|B-S-pe_and_sports в|O кемеровской|B-L.location
+траты|S для|O образованием|B-S-education в|O ингушетия|B-L.location
 
-при|O спорта|S-pe_and_sports 2019|Y год|O в|O чукотскому|L
-траты|S 1849|Y год|O в|O псковской|L
-через|O здравоохранению|S-health 1891|Y год|O 
-1865|Y год|O в|O ингушетии|L
-поступления|R 2013|Y год|O 
-поступления|R 1963|Y год|O в|O кировской|L
-поступления|R об|O окружающей|S-environment 1885|Y год|O 
-дефицит|D у|O образованием|S-education в|O курскую|L
-1969|Y год|O в|O москве|L
-траты|S 
-к|O жкх|S-housing_utilities в|O псковская|L
-перед|O спорту|S-pe_and_sports в|O северо-кавказского|L
-поступления|R под|O спортом|S-pe_and_sports 
-траты|S над|O экономику|S-national_economy 1816|Y год|O в|O пермского|L
-поступления|R под|O экономике|S-national_economy 1966|Y год|O в|O удмуртской|L
-1819|Y год|O 
-дефицит|D в|O пермский|L
-траты|S по|O здравоохранением|S-health в|O воронежской|L
-поступления|R о|O жкх|S-housing_utilities 2023|Y год|O в|O приморского|L
-над|O экономика|S-national_economy 1996|Y год|O 
-траты|S 
-траты|S по|O обороне|S-national_defence в|O чечня|L
-
-1800|Y год|O в|O москве|L
-траты|S об|O социальной|S-social_policy 1867|Y год|O в|O москве|L
-траты|S через|O здравоохранения|S-health 1882|Y год|O в|O ростовскую|L
-за|O здравоохранения|S-health 1836|Y год|O в|O марий|L
-поступления|R в|O рязанскую|L
-
-дефицит|D за|O жкх|S-housing_utilities 2023|Y год|O в|O крыму|L
-траты|S на|O здравоохранение|S-health 1870|Y год|O 
-поступления|R до|O социальной|S-social_policy 
-траты|S с|O жкх|S-housing_utilities 
-траты|S 2010|Y год|O 
-под|O спорт|S-pe_and_sports 
-до|O здравоохранением|S-health 1931|Y год|O 
+поступления|R к|O спорт|B-S-pe_and_sports 
+траты|S 1889|B-T.time год|I-T.time 
+при|O жкх|B-S-housing_utilities 1865|B-T.time год|I-T.time 
+поступления|R из|O образованию|B-S-education 1996|B-T.time год|I-T.time в|O крымского|B-L.location
+дефицит|D в|O московская|B-L.location
+траты|S из|O спортом|B-S-pe_and_sports 
+от|O здравоохранения|B-S-health 1922|B-T.time год|I-T.time в|O камчатскому|B-L.location
 дефицит|D 
-в|O белгородской|L
-дефицит|D в|O кемеровская|L
-траты|S в|O чечней|L
-в|O астраханскую|L
-1947|Y год|O 
-траты|S 1949|Y год|O 
-поступления|R о|O культура|S-culture 1911|Y год|O в|O астраханской|L
-поступления|R на|O спортом|S-pe_and_sports 
-до|O образование|S-education 1876|Y год|O 
-до|O социальной|S-social_policy 1801|Y год|O 
-дефицит|D 1838|Y год|O 
-у|O окружающей|S-environment 1850|Y год|O 
-с|O образованию|S-education в|O дальневосточный|L
-через|O безопасность|S-national_security 1885|Y год|O 
-1939|Y год|O в|O ингушетии|L
-дефицит|D до|O спорта|S-pe_and_sports 
-в|O россии|L
-1868|Y год|O 
-на|O культуре|S-culture 1861|Y год|O в|O тамбовской|L
+траты|S в|O смоленской|B-L.location
+дефицит|D под|O спорту|B-S-pe_and_sports 
+дефицит|D 
+дефицит|D о|O культуры|B-S-culture 2005|B-T.time год|I-T.time 
 
-без|O образовании|S-education в|O тюменской|L
+траты|S в|O брянскую|B-L.location
+поступления|R 1987|B-T.time год|I-T.time в|O чувашии|B-L.location
+поступления|R под|O экономикой|B-S-national_economy 1861|B-T.time год|I-T.time в|O севастополе|B-L.location
+
+дефицит|D перед|O экономике|B-S-national_economy 1892|B-T.time год|I-T.time 
+поступления|R от|O образование|B-S-education в|O тува|B-L.location
+дефицит|D за|O жкх|B-S-housing_utilities 1998|B-T.time год|I-T.time 
+2037|B-T.time год|I-T.time в|O рязанскую|B-L.location
+перед|O образование|B-S-education 
+через|O безопасности|B-S-national_security 1881|B-T.time год|I-T.time 
+1914|B-T.time год|I-T.time 
+траты|S в|O карелией|B-L.location
+
+поступления|R в|O краснодарского|B-L.location
+на|O спорте|B-S-pe_and_sports 
+поступления|R через|O культурой|B-S-culture 1945|B-T.time год|I-T.time в|O дальневосточного|B-L.location
+дефицит|D до|O экономике|B-S-national_economy 1984|B-T.time год|I-T.time в|O ивановской|B-L.location
+дефицит|D 1854|B-T.time год|I-T.time 
+поступления|R перед|O здравоохранением|B-S-health в|O калужской|B-L.location
+поступления|R под|O здравоохранением|B-S-health 1995|B-T.time год|I-T.time в|O центральным|B-L.location
+об|O безопасностью|B-S-national_security 1871|B-T.time год|I-T.time в|O тува|B-L.location
+поступления|R в|O чувашской|B-L.location
+в|O осетия|B-L.location
+поступления|R с|O социальной|B-S-social_policy 1883|B-T.time год|I-T.time 
+траты|S при|O экономике|B-S-national_economy 1899|B-T.time год|I-T.time в|O центральном|B-L.location
+1966|B-T.time год|I-T.time 
+поступления|R в|O ставрополью|B-L.location
+1908|B-T.time год|I-T.time 
+траты|S в|O тульскую|B-L.location
+1952|B-T.time год|I-T.time 
+на|O окружающей|B-S-environment 1849|B-T.time год|I-T.time в|O севастополю|B-L.location
+поступления|R по|O здравоохранение|B-S-health в|O байконура|B-L.location
+
+поступления|R в|O уральским|B-L.location
+у|O социальную|B-S-social_policy 1844|B-T.time год|I-T.time 
+траты|S над|O окружающей|B-S-environment 
+дефицит|D 1811|B-T.time год|I-T.time 
+до|O экономики|B-S-national_economy 1836|B-T.time год|I-T.time 
 поступления|R 
-над|O жкх|S-housing_utilities 2032|Y год|O в|O якутию|L
-дефицит|D 1888|Y год|O в|O архангельскую|L
-дефицит|D в|O калининградской|L
-из|O экономики|S-national_economy 1887|Y год|O 
-1973|Y год|O 
-из|O безопасностью|S-national_security в|O тюменскую|L
-дефицит|D из|O экономика|S-national_economy в|O югре|L
-1981|Y год|O в|O чувашскую|L
-в|O брянской|L
-поступления|R 2020|Y год|O в|O приморского|L
-1907|Y год|O 
-траты|S о|O спорта|S-pe_and_sports в|O нижегородской|L
-дефицит|D перед|O образования|S-education 1836|Y год|O 
-дефицит|D на|O безопасности|S-national_security 1816|Y год|O в|O новгородской|L
-1995|Y год|O 
-траты|S 1869|Y год|O 
-1898|Y год|O 
-1809|Y год|O 
-про|O жкх|S-housing_utilities 
-поступления|R под|O жкх|S-housing_utilities 1911|Y год|O в|O дальневосточный|L
+под|O экономикой|B-S-national_economy в|O алтайского|B-L.location
+в|O калининградская|B-L.location
+дефицит|D об|O экономики|B-S-national_economy в|O чувашской|B-L.location
+в|O челябинской|B-L.location
+поступления|R 1840|B-T.time год|I-T.time 
+поступления|R в|O магаданскую|B-L.location
+дефицит|D про|O окружающей|B-S-environment 1957|B-T.time год|I-T.time 
+траты|S 2015|B-T.time год|I-T.time в|O владимирской|B-L.location
+траты|S об|O окружающей|B-S-environment 1908|B-T.time год|I-T.time в|O кабардино-балкарской|B-L.location
+дефицит|D по|O экономикой|B-S-national_economy 
+траты|S 1921|B-T.time год|I-T.time в|O архангельская|B-L.location
 
-с|O здравоохранение|S-health 2015|Y год|O 
-траты|S перед|O экономику|S-national_economy 1836|Y год|O в|O башкортостане|L
-поступления|R 1835|Y год|O в|O новгородской|L
-1818|Y год|O 
-траты|S на|O спорту|S-pe_and_sports 2003|Y год|O в|O костромской|L
-траты|S за|O обороны|S-national_defence 
-1916|Y год|O 
-2039|Y год|O 
-траты|S 2026|Y год|O в|O карачаево-черкесскую|L
+поступления|R 1983|B-T.time год|I-T.time в|O ставропольский|B-L.location
+1969|B-T.time год|I-T.time 
+от|O образования|B-S-education 1985|B-T.time год|I-T.time в|O дагестаном|B-L.location
+поступления|R в|O якутию|B-L.location
+траты|S про|O здравоохранение|B-S-health 1855|B-T.time год|I-T.time в|O байконуром|B-L.location
+траты|S 2011|B-T.time год|I-T.time 
+2029|B-T.time год|I-T.time в|O московской|B-L.location
+дефицит|D 1923|B-T.time год|I-T.time в|O орловской|B-L.location
+на|O экономике|B-S-national_economy 1891|B-T.time год|I-T.time 
+поступления|R над|O социальную|B-S-social_policy 1902|B-T.time год|I-T.time 
+дефицит|D при|O культуры|B-S-culture в|O ульяновской|B-L.location
+дефицит|D через|O здравоохранении|B-S-health в|O северо-западный|B-L.location
+траты|S 1841|B-T.time год|I-T.time 
+в|O брянская|B-L.location
+по|O спортом|B-S-pe_and_sports 
+поступления|R с|O социальной|B-S-social_policy 1845|B-T.time год|I-T.time в|O еврейскую|B-L.location
+дефицит|D с|O жкх|B-S-housing_utilities 1847|B-T.time год|I-T.time 
+траты|S 1846|B-T.time год|I-T.time 
+по|O культуру|B-S-culture 
+дефицит|D 
 
-до|O жкх|S-housing_utilities в|O южном|L
-перед|O обороне|S-national_defence 
-траты|S о|O оборону|S-national_defence 2014|Y год|O 
-до|O жкх|S-housing_utilities 
-поступления|R к|O спортом|S-pe_and_sports 
-с|O безопасности|S-national_security 
+к|O окружающей|B-S-environment 1948|B-T.time год|I-T.time в|O карачаево-черкесской|B-L.location
+траты|S для|O жкх|B-S-housing_utilities 1927|B-T.time год|I-T.time в|O мурманской|B-L.location
+про|O здравоохранение|B-S-health 1937|B-T.time год|I-T.time 
+дефицит|D через|O культура|B-S-culture 1850|B-T.time год|I-T.time 
 
-1940|Y год|O в|O крым|L
-об|O социальную|S-social_policy 1920|Y год|O в|O саха|L
-2009|Y год|O в|O курская|L
-в|O сибирским|L
-дефицит|D 1961|Y год|O 
-поступления|R у|O оборону|S-national_defence 1838|Y год|O 
-о|O экономики|S-national_economy 1859|Y год|O 
-
-1980|Y год|O в|O ямало-ненецком|L
-для|O спорте|S-pe_and_sports 
-в|O пермскому|L
-об|O социальной|S-social_policy 
-
-1953|Y год|O в|O крымского|L
-дефицит|D 1881|Y год|O в|O байконур|L
-траты|S 1970|Y год|O 
-поступления|R при|O спорту|S-pe_and_sports 
-в|O еврейской|L
-дефицит|D в|O нижегородской|L
-дефицит|D по|O образованием|S-education в|O дальневосточном|L
-о|O безопасностью|S-national_security 
-дефицит|D под|O окружающей|S-environment в|O уральском|L
-про|O обороне|S-national_defence 1955|Y год|O 
-поступления|R над|O обороны|S-national_defence 1987|Y год|O 
-дефицит|D на|O образованием|S-education в|O пензенской|L
-в|O сахалинской|L
-1801|Y год|O в|O забайкальский|L
-в|O астраханскую|L
-для|O жкх|S-housing_utilities в|O саратовской|L
-1995|Y год|O 
-о|O образование|S-education 1985|Y год|O в|O приморского|L
-
-в|O тыве|L
-поступления|R при|O образованием|S-education 2013|Y год|O 
-с|O социальной|S-social_policy 2040|Y год|O 
+при|O социальной|B-S-social_policy 
+у|O социальной|B-S-social_policy 
+об|O жкх|B-S-housing_utilities 1889|B-T.time год|I-T.time в|O ставрополью|B-L.location
+для|O спортом|B-S-pe_and_sports 1848|B-T.time год|I-T.time 
+траты|S за|O оборону|B-S-national_defence 1885|B-T.time год|I-T.time 
+1815|B-T.time год|I-T.time в|O дагестаном|B-L.location
+из|O жкх|B-S-housing_utilities 1987|B-T.time год|I-T.time в|O мордовию|B-L.location
+дефицит|D 
+траты|S 
+из|O культуры|B-S-culture 1939|B-T.time год|I-T.time в|O челябинская|B-L.location
+дефицит|D с|O культуре|B-S-culture в|O вологодская|B-L.location
+дефицит|D в|O магаданской|B-L.location
+над|O окружающую|B-S-environment в|O свердловской|B-L.location
+1905|B-T.time год|I-T.time 
+дефицит|D у|O экономика|B-S-national_economy 
+траты|S с|O здравоохранению|B-S-health в|O новгородской|B-L.location
+об|O образовании|B-S-education 2037|B-T.time год|I-T.time 
+без|O жкх|B-S-housing_utilities в|O нижегородской|B-L.location
+траты|S из|O здравоохранением|B-S-health в|O тыве|B-L.location
+об|O жкх|B-S-housing_utilities 
+из|O здравоохранения|B-S-health 1997|B-T.time год|I-T.time в|O рф|B-L.location
+из|O экономика|B-S-national_economy в|O краснодарского|B-L.location
+1806|B-T.time год|I-T.time 
+поступления|R перед|O культуре|B-S-culture в|O якутию|B-L.location
+дефицит|D из|O оборону|B-S-national_defence в|O чечне|B-L.location
+к|O окружающей|B-S-environment в|O башкортостана|B-L.location
+2006|B-T.time год|I-T.time 
+дефицит|D для|O здравоохранением|B-S-health 1879|B-T.time год|I-T.time 
+1914|B-T.time год|I-T.time 
+поступления|R перед|O обороны|B-S-national_defence 1911|B-T.time год|I-T.time 
+1819|B-T.time год|I-T.time в|O югрой|B-L.location
+о|O окружающей|B-S-environment в|O хабаровского|B-L.location
+1871|B-T.time год|I-T.time в|O вологодская|B-L.location
+траты|S перед|O жкх|B-S-housing_utilities 
+1811|B-T.time год|I-T.time 
+траты|S через|O спорта|B-S-pe_and_sports 1849|B-T.time год|I-T.time в|O кемеровской|B-L.location
+за|O экономику|B-S-national_economy 2029|B-T.time год|I-T.time 
+2043|B-T.time год|I-T.time 
+поступления|R в|O чечни|B-L.location
+с|O окружающую|B-S-environment в|O тверской|B-L.location
+для|O экономика|B-S-national_economy 1962|B-T.time год|I-T.time 
+поступления|R 1852|B-T.time год|I-T.time 
+об|O обороны|B-S-national_defence 
+траты|S 1981|B-T.time год|I-T.time в|O курганской|B-L.location
+про|O окружающей|B-S-environment 
+траты|S с|O культуру|B-S-culture 1931|B-T.time год|I-T.time 
+траты|S в|O осетию|B-L.location
+траты|S по|O социальная|B-S-social_policy в|O рязанской|B-L.location
+для|O обороной|B-S-national_defence 1914|B-T.time год|I-T.time в|O сибирского|B-L.location
+поступления|R 1830|B-T.time год|I-T.time в|O ханты-мансийскому|B-L.location
 поступления|R 
-на|O экономикой|S-national_economy 1901|Y год|O в|O калужской|L
-1815|Y год|O 
-траты|S 
-до|O спорт|S-pe_and_sports 1870|Y год|O 
-дефицит|D с|O социальной|S-social_policy 
-от|O экономике|S-national_economy 2014|Y год|O 
-траты|S 
-1917|Y год|O 
-об|O здравоохранения|S-health 1945|Y год|O в|O туву|L
-о|O жкх|S-housing_utilities 
-дефицит|D 1888|Y год|O в|O пермскому|L
-дефицит|D в|O орловской|L
-1992|Y год|O в|O тульской|L
-поступления|R перед|O обороны|S-national_defence 
-1848|Y год|O 
-через|O здравоохранения|S-health 
-траты|S над|O здравоохранением|S-health 2013|Y год|O в|O россии|L
-до|O культуру|S-culture 2044|Y год|O в|O хабаровскому|L
+дефицит|D 1948|B-T.time год|I-T.time 
+дефицит|D 1978|B-T.time год|I-T.time 
+поступления|R 2017|B-T.time год|I-T.time 
+на|O здравоохранении|B-S-health в|O ставропольском|B-L.location
+траты|S 2010|B-T.time год|I-T.time в|O хакасии|B-L.location
+за|O обороне|B-S-national_defence 1994|B-T.time год|I-T.time 
+1927|B-T.time год|I-T.time 
+об|O здравоохранение|B-S-health 1978|B-T.time год|I-T.time в|O красноярского|B-L.location
+дефицит|D 1874|B-T.time год|I-T.time в|O севастополю|B-L.location
+дефицит|D 1941|B-T.time год|I-T.time в|O дальневосточного|B-L.location
+дефицит|D в|O костромская|B-L.location
+поступления|R по|O образования|B-S-education в|O дагестане|B-L.location
+дефицит|D 1869|B-T.time год|I-T.time 
+об|O спорте|B-S-pe_and_sports в|O нижегородской|B-L.location
+в|O самарская|B-L.location
+поступления|R в|O уральским|B-L.location
+2030|B-T.time год|I-T.time 
+
+1884|B-T.time год|I-T.time в|O мордовия|B-L.location
+в|O кировская|B-L.location
+траты|S 1885|B-T.time год|I-T.time в|O байконура|B-L.location
+дефицит|D через|O окружающей|B-S-environment в|O татарстан|B-L.location
+поступления|R 
+дефицит|D об|O культура|B-S-culture 2026|B-T.time год|I-T.time 
+траты|S через|O окружающей|B-S-environment 1800|B-T.time год|I-T.time 
+траты|S 1812|B-T.time год|I-T.time 
+поступления|R у|O окружающей|B-S-environment в|O якутию|B-L.location
+1855|B-T.time год|I-T.time 
+траты|S при|O экономике|B-S-national_economy 
+1845|B-T.time год|I-T.time 
+дефицит|D над|O спорте|B-S-pe_and_sports в|O магаданская|B-L.location
+поступления|R 
+
+в|O удмуртской|B-L.location
+траты|S с|O социальная|B-S-social_policy 2031|B-T.time год|I-T.time 
+траты|S о|O экономикой|B-S-national_economy 
+поступления|R через|O культурой|B-S-culture 2006|B-T.time год|I-T.time в|O мурманской|B-L.location
 
 
 
